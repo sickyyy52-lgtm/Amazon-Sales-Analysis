@@ -36,7 +36,7 @@ The final dashboard enables quick and intuitive analysis of Amazon sales data, h
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. 
-Example: [Dashboard Preview] 
+Example: [Dashboard Preview] https://github.com/sickyyy52-lgtm/Amazon-Sales-Analysis/blob/main/Data%20Analyis%20Dashboard.png
 
 
 
