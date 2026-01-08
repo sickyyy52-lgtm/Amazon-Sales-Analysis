@@ -28,4 +28,4 @@ This project demonstrates practical skills in data modeling, DAX calculations, a
 The final dashboard enables quick and intuitive analysis of Amazon sales data, helping stakeholders understand performance trends, identify growth opportunities, and evaluate customer engagement through reviews. The project reflects a practical approach to business intelligence and analytical problem-solving using Power BI.
 
 **Screenshots / Demos Show what the dashboard looks like.**
-Example:[Dashboard Preview] https://github.com/sickyyy52-lgtm/Amazon-Sales-Analysis/blob/main/Data%20Analyis%20Dashboard.png
+Example:[Dashboard Preview] ![Amazon Dashboard Preview](https://github.com/sickyyy52-lgtm/Amazon-Sales-Analysis/raw/main/Data%20Analyis%20Dashboard.png)
